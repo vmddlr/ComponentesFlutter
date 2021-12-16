@@ -103,7 +103,7 @@ class CardsPage extends StatelessWidget {
             color: Colors.black26,
             blurRadius: 10.0,
             spreadRadius: 2.0,
-            offset: Offset(2.0, 20.0)
+            offset: Offset(2.0, 15.0)
           )
         ]
       ),
