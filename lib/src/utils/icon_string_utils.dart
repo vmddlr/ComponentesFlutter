@@ -5,6 +5,7 @@ final _icons = <String, IconData>{
   'add_alert': Icons.add,
   'accessibility': Icons.accessibility,
   'folder_open': Icons.folder_open,
+  'whatshot': Icons.whatshot,
 };
 
 Icon getIcon(String nombreIcon){
