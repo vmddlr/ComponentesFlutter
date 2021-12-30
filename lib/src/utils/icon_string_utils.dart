@@ -2,10 +2,12 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 
 final _icons = <String, IconData>{
-  'add_alert': Icons.add,
-  'accessibility': Icons.accessibility,
-  'folder_open': Icons.folder_open,
-  'whatshot': Icons.whatshot,
+  'add_alert'     : Icons.add,
+  'accessibility' : Icons.accessibility,
+  'folder_open'   : Icons.folder_open,
+  'whatshot'      : Icons.whatshot,
+  'input'         : Icons.input,
+  'tune'          : Icons.tune,
 };
 
 Icon getIcon(String nombreIcon){
